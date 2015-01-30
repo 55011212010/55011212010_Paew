@@ -35,7 +35,7 @@ class Calculate {
             }
         }
         else{
-            println("Number is Not 1-100")
+            println("****Number is Not 1-100****")
         }
     }
 }
